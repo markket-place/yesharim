@@ -1,4 +1,28 @@
 export const LANGUAGES = {
+  'he-IL': {
+    Home: 'בית',
+    Posts: 'מאמרים',
+    Categories: 'נושאים',
+    Archive: 'ארכיון',
+    Tags: 'תגיות',
+    About: 'עלינו',
+    Links: 'קישורים',
+
+    posted_at: 'פורסם ב־',
+    updated_at: 'עודכן ב־',
+    tag_count: '%d מאמרים',
+    archive_count: '%d מאמרים',
+    categories_count: '%d מאמרים',
+    page_count: '%d עמודים בסך הכול',
+    page_number: 'עמוד %d',
+    all_posts: 'כל המאמרים',
+    comments: 'תגובות',
+    share: 'שיתוף',
+    prev: 'הקודם',
+    next: 'הבא',
+    prev_post: 'המאמר הקודם',
+    next_post: 'המאמר הבא',
+  },
   'zh-cn': {
     Home: '首页',
     Posts: '文章',
