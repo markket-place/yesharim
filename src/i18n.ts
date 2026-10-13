@@ -1,4 +1,28 @@
 export const LANGUAGES = {
+  'he-US': {
+    Home: 'בית · Home',
+    Posts: 'מאמרים · Articles',
+    Categories: 'נושאים · Topics',
+    Archive: 'ארכיון · Archive',
+    Tags: 'תגיות · Tags',
+    About: 'אודות · About',
+    Links: 'קישורים · Links',
+
+    posted_at: ' ב־',
+    updated_at: ' ב־ ',
+    tag_count: '%d מאמרים · %d articles',
+    archive_count: '%d מאמרים · %d articles',
+    categories_count: '%d מאמרים · %d articles',
+    page_count: '%d עמודים · %d pages',
+    page_number: 'עמוד %d · Page %d',
+    all_posts: 'כל המאמרים · All articles',
+    comments: 'תגובות · Comments',
+    share: 'שיתוף · Share',
+    prev: 'הקודם · Previous',
+    next: 'הבא · Next',
+    prev_post: 'המאמר הקודם · Previous article',
+    next_post: 'המאמר הבא · Next article',
+  },
   'he-IL': {
     Home: 'בית',
     Posts: 'מאמרים',

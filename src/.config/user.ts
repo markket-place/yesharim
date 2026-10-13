@@ -37,7 +37,7 @@ export const userConfig: Partial<UserConfig> = {
         href: '/about',
       },
     ],
-    categoryMap: [{ name: '胡适', path: 'hu-shi' }],
+    // categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
       '© %year <a target="_blank" href="%website">%author</a>',
       'Theme <a target="_blank" href="https://github.com/markket-place/yesharim">Blog</a> by <a target="_blank" href="https://moeyua.Markk">Markkët</a>',
@@ -46,7 +46,7 @@ export const userConfig: Partial<UserConfig> = {
   },
   appearance: {
     theme: 'system',
-    locale: 'he-IL',
+    locale: 'he-US',
     colorsLight: {
       primary: '#2e405b',
       background: '#ffffff',
