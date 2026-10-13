@@ -44,6 +44,10 @@ export async function getPosts(isArchivePage = false) {
 
 const parser = new MarkdownIt()
 export function getPostDescription(post: Post) {
+  if (post.data?.longDescription) {
+    return post.data.longDescription
+  }
+
   if (post.data.description) {
     return post.data.description
   }
