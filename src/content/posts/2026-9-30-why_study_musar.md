@@ -1,6 +1,6 @@
 ---
 title: "The Importance of Musar: Wisdom We Must Practice"
-pubDate: 2026-09-30
+pubDate: 2026-10-01
 categories: ["Musar", "Intro"]
 description: "Why Study This Book?"
 longDescription: "Imagine having access to medicine that could help you heal, yet leaving it untouched on a shelf. You might admire its packaging, learn about its history, and discuss its ingredients with others. But if you never take it, you miss its purpose"
