@@ -54,3 +54,7 @@ Have a source to recommend, an interpretation to share, or an idea for putting a
 The project was initiated by Daveed, a Jewish Colombian artist and engineer who studied in Colombia and Jerusalem and continues learning at the Beit Midrash at Chazak LA in North Hollywood
 
 **Read a little. Think honestly. Do some good.**
+
+### Community
+
+Learn about [Jewish Life in NOHO](/noho/)
